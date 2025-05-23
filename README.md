@@ -1,4 +1,4 @@
-<h1 align='center' >Felipe Braz</h1> 
+<h1 align='center' >⚡ Felipe Braz ⚡</h1> 
 
 <div align='center'>
 
