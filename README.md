@@ -32,4 +32,4 @@
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipaocbraz&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ErickSimoes&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=4C8EDA&dates=4C8EDA&stroke=1C2F45&border=E4E2E2)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lipaocbraz=github-dark&date_format=j%20M%5B%20Y%5D&ring=4C8EDA&dates=4C8EDA&stroke=1C2F45&border=E4E2E2)](https://git.io/streak-stats)
