@@ -16,7 +16,7 @@
 
 ---
 
-### Top Languages and Tools:
+### Top Languages:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
@@ -30,6 +30,11 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
 
+---
+
+### Statistics:
+
+
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipaocbraz&show_icons=true&theme=dark&&title_color=9745F5&icon_color=9745F5&text_color=8B949E&bg_color=000000)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lipaocbraz&theme=midnight-purple&border_radius=6)](https://git.io/streak-stats)
@@ -38,6 +43,6 @@
 
 ---
 
-### Repositories
+### Repositories:
 
 [![Vida Pet](https://github-readme-stats.vercel.app/api/pin/?username=ArthurMatias57&repo=Projeto-FP-CESAR-Un.-2&title_color=9745F5&icon_color=9745F5&text_color=8B949E&bg_color=000000)](https://github.com/ArthurMatias57/Vida-pet.git)
