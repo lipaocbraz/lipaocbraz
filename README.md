@@ -30,12 +30,14 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipaocbraz&show_icons=true&theme=dark&&title_color=880808&icon_color=880808&text_color=8B949E&bg_color=0D1117)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipaocbraz&show_icons=true&theme=dark&&title_color=9745F5&icon_color=9745F5&text_color=8B949E&bg_color=000000)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lipaocbraz&theme=shadow-red&border_radius=6)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lipaocbraz&theme=midnight-purple&border_radius=6)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipaocbraz&show_icons=true&theme=dark&&title_color=9745F5&icon_color=9745F5&text_color=8B949E&bg_color=000000)
 
 ---
 
 ### Repositories
 
-[![Vida Pet](https://github-readme-stats.vercel.app/api/pin/?username=ArthurMatias57&repo=Projeto-FP-CESAR-Un.-2&title_color=880808&icon_color=880808&text_color=8B949E&bg_color=0D1117)](https://github.com/ArthurMatias57/Vida-pet.git)
+[![Vida Pet](https://github-readme-stats.vercel.app/api/pin/?username=ArthurMatias57&repo=Projeto-FP-CESAR-Un.-2&title_color=9745F5&icon_color=9745F5&text_color=8B949E&bg_color=000000)](https://github.com/ArthurMatias57/Vida-pet.git)
