@@ -1,6 +1,12 @@
-# Felipe Braz 
+<h1 align='center' >Felipe Braz</h1> 
+
+<div align='center'>
 
 [![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipecbraz/)
+
+</div>
+
+---
 
 - 🎓 Estudante de Ciência da Computação
 - 💡 Curioso por natureza
@@ -24,8 +30,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
 
----
-
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipaocbraz&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lipaocbraz&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=4C8EDA&dates=4C8EDA&stroke=1C2F45&border=E4E2E2)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ErickSimoes&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=4C8EDA&dates=4C8EDA&stroke=1C2F45&border=E4E2E2)](https://git.io/streak-stats)
