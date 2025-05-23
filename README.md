@@ -32,7 +32,7 @@
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipaocbraz&show_icons=true&theme=dark&&title_color=880808&icon_color=880808&text_color=8B949E&bg_color=0D1117)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lipaocbraz&theme=dark&border_radius=6)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lipaocbraz&theme=shadow-red&border_radius=6)](https://git.io/streak-stats)
 
 ---
 
