@@ -35,11 +35,11 @@
 ### Statistics:
 
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipaocbraz&show_icons=true&theme=dark&&title_color=9745F5&icon_color=9745F5&text_color=8B949E&bg_color=000000)
+![Felipe's GitHub stats](github-readme-stats.vercel.app/api?username=lipaocbraz&show_icons=true&theme=dark&&title_color=9745F5&icon_color=9745F5&text_color=8B949E&bg_color=000000)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lipaocbraz&theme=midnight-purple&border_radius=6)](https://git.io/streak-stats)
+[![GitHub Streak](github-readme-streak-stats.herokuapp.com?user=Lipaocbraz&theme=midnight-purple&border_radius=6)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipaocbraz&show_icons=true&theme=dark&&title_color=9745F5&icon_color=9745F5&text_color=8B949E&bg_color=000000)
+![Top Langs](github-readme-stats.vercel.app/api/top-langs/?username=lipaocbraz&show_icons=true&theme=dark&&title_color=9745F5&icon_color=9745F5&text_color=8B949E&bg_color=000000)
 
 ---
 
