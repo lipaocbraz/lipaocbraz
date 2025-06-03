@@ -8,11 +8,11 @@
 
 ---
 
-- 🎓 Estudante de Ciência da Computação
-- 💡 Curioso por natureza
-- 💻 Apaixonado por tecnologia, programação e aprendizado contínuo
-- 📚 Estudando Python, JavaScript e C
-- 🚀 Buscando sempre novos desafios para evoluir como desenvolvedor
+- 🎓 Computer Science Student
+- 💡 Curious by nature
+- 💻 Passionate about technology, programming, and continuous learning
+- 📚 Studying Python, JavaScript, and C
+- 🚀 Always looking for new challenges to grow as a developer
 
 ---
 
