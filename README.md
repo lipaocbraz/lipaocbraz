@@ -1,4 +1,5 @@
-<h1 align='center' >⚡ Felipe Braz ⚡</h1> 
+
+<h1 align='center' >WELCOME I AM<br>⚡ FELIPE BRAZ ⚡</h1> 
 
 <div align='center'>
 
@@ -33,7 +34,6 @@
 ---
 
 ### Statistics:
-
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipaocbraz&show_icons=true&theme=dark&title_color=9745F5&icon_color=9745F5&text_color=8B949E&bg_color=000000)
 
