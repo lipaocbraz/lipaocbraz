@@ -39,7 +39,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lipaocbraz&theme=midnight-purple&border_radius=6)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipaocbraz&show_icons=true&theme=dark&title_color=9745F5&icon_color=9745F5&text_color=8B949E&bg_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipaocbraz&show_icons=true&theme=dark&title_color=9745F5&icon_color=9745F5&text_color=8B949E&bg_color=00000)
 
 ---
 
