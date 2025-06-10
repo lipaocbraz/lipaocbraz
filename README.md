@@ -35,7 +35,7 @@
 
 ### Statistics:
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipaocbraz&show_icons=true&theme=dark&title_color=9745F5&icon_color=9745F5&text_color=8B949E&bg_color=000000)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipaocbraz&show_icons=true&theme=dark&title_color=9745F5&icon_color=9745F4&text_color=8B949E&bg_color=000000)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lipaocbraz&theme=midnight-purple&border_radius=6)](https://git.io/streak-stats)
 
@@ -46,3 +46,4 @@
 ### Repositories:
 
 [![Vida Pet](https://github-readme-stats.vercel.app/api/pin/?username=ArthurMatias57&repo=Projeto-FP-CESAR-Un.-2&title_color=9745F5&icon_color=9745F5&text_color=8B949E&bg_color=000000)](https://github.com/ArthurMatias57/Vida-pet.git)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=lipaocbraz&repo=Portfolio&title_color=9745F5&icon_color=9745F5&text_color=8B949E&bg_color=000000)](https://github.com/lipaocbraz/Portfolio.git)
